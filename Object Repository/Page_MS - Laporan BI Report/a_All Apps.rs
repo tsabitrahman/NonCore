@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_All Apps</name>
+   <tag></tag>
+   <elementGuidId>48697568-6721-4d17-9342-1de03290273f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='List Reports'])[1]/following::a[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.list-group-item.list-group-item-action</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>3600f706-8428-4b15-b8da-0781f3b1baed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-toggle</name>
+      <type>Main</type>
+      <value>collapse</value>
+      <webElementGuid>8483bc86-7e68-4bec-a6dd-2a3a5c9d0c5d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-target</name>
+      <type>Main</type>
+      <value>#application-101</value>
+      <webElementGuid>e4805c20-b5fe-478f-ba7f-c758f0e44662</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>list-group-item list-group-item-action</value>
+      <webElementGuid>ff0a6170-2b61-4176-9b6d-7fceeca74133</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> ‣ All Apps</value>
+      <webElementGuid>fb0c92a1-a822-4eee-8596-05cb4ab2be08</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;app header-fixed sidebar-fixed aside-menu-fixed sidebar-lg-show&quot;]/div[@class=&quot;app-body&quot;]/main[@class=&quot;main&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;animated fadeIn&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xl-12&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;table-responsive-md&quot;]/div[@class=&quot;list-group&quot;]/a[@class=&quot;list-group-item list-group-item-action&quot;]</value>
+      <webElementGuid>026d296f-bfe3-4611-a2c2-fed545d88087</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='List Reports'])[1]/following::a[1]</value>
+      <webElementGuid>a0710d34-14be-47e3-b7eb-08bf056f7d75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Keterlambatan Trainer'])[1]/following::a[2]</value>
+      <webElementGuid>263a0e40-4b6d-4afb-976e-4c618d38c4f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='‣ KPI &amp; LCP'])[1]/preceding::a[1]</value>
+      <webElementGuid>29820e68-fcd3-4af8-97b7-b664721ebe6d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='‣']/parent::*</value>
+      <webElementGuid>27fa2158-d01b-4336-b3f1-fb9fcc1e9100</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '')])[10]</value>
+      <webElementGuid>e45fe7ef-a8b2-4d29-8357-b6fbef2c8dfb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/a</value>
+      <webElementGuid>f20177e8-fe01-4435-9f53-23fc26eb8e0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = ' ‣ All Apps' or . = ' ‣ All Apps')]</value>
+      <webElementGuid>1fae4628-0cce-4b8c-ad57-7c685b80388c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

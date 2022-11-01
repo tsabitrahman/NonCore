@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Transaction</name>
+   <tag></tag>
+   <elementGuidId>cead98b5-ad5e-4191-a24b-bf132812db44</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='application-101']/a[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>eedb44f9-1371-4b09-9b98-f1ee0c01baf9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-toggle</name>
+      <type>Main</type>
+      <value>collapse</value>
+      <webElementGuid>d49eff8b-4297-4ec6-8c46-1cfec50bbb6d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-target</name>
+      <type>Main</type>
+      <value>#theme-114</value>
+      <webElementGuid>7a43954b-1da0-4ff4-b53d-2d0cb16d7dda</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>list-group-item list-group-item-action</value>
+      <webElementGuid>5a6e4111-bb5e-4b99-aae3-ea127d5953ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> ‣ Transaction</value>
+      <webElementGuid>55dbab3a-1bba-4891-b975-a34684581668</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;application-101&quot;)/a[@class=&quot;list-group-item list-group-item-action&quot;]</value>
+      <webElementGuid>b33c700c-9c20-44a3-b96a-5cc4e97cb196</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='application-101']/a[2]</value>
+      <webElementGuid>cccdd511-1b0b-4d7a-b4fa-1e91d0d33039</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'‣ Transaction')]</value>
+      <webElementGuid>5cc9d7a6-5ab5-4d69-bda1-4bd0ce8a785c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='• LCP Monthly'])[1]/following::a[1]</value>
+      <webElementGuid>6cad60b0-04fc-4ce0-a62d-adc90c6a8b15</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='• KPI DBO (Data)'])[1]/following::a[2]</value>
+      <webElementGuid>6b9b5112-e89d-4dc5-8f63-93a3b448f9d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='• Penjualan'])[1]/preceding::a[1]</value>
+      <webElementGuid>2343279f-8b2b-468c-bf8e-41a6ccbfe32e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='• Transaction detail by DBO Apps'])[1]/preceding::a[2]</value>
+      <webElementGuid>eff3341f-01b6-47fa-aa6d-f594980cdf78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='‣ Transaction']/parent::*</value>
+      <webElementGuid>5a7f4818-3750-4b97-ab69-c98f8bfeed63</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '')])[15]</value>
+      <webElementGuid>73d92300-c87f-4c9d-a004-b1d05feadb81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/a[2]</value>
+      <webElementGuid>861d668c-dc4b-4f2b-bc1b-46ac0694530d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = ' ‣ Transaction' or . = ' ‣ Transaction')]</value>
+      <webElementGuid>3167bfe5-4ab9-4b1f-a3f7-6681115de509</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

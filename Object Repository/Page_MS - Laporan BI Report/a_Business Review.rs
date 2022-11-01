@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Business Review</name>
+   <tag></tag>
+   <elementGuidId>6bdde0b3-7b5d-4ca4-a5ea-8d4ebda60ffb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#application-101 > a.list-group-item.list-group-item-action</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='application-101']/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>42db33cd-20e3-4d17-a42c-6b0354619bc8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-toggle</name>
+      <type>Main</type>
+      <value>collapse</value>
+      <webElementGuid>426d9f72-8b01-41c3-850a-15552f20153c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-target</name>
+      <type>Main</type>
+      <value>#theme-109</value>
+      <webElementGuid>7f706b0a-ba16-4d9d-b762-bb28309deb86</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>list-group-item list-group-item-action</value>
+      <webElementGuid>e26b6237-d4b4-47fa-9ef1-061106c373a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> ‣ Business Review</value>
+      <webElementGuid>c2e685b1-6d8d-4efb-94b7-86f0dc957fa6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;application-101&quot;)/a[@class=&quot;list-group-item list-group-item-action&quot;]</value>
+      <webElementGuid>01337404-e1e9-4236-8b02-e88e8ba1b7b1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='application-101']/a</value>
+      <webElementGuid>3c6ad20e-0af3-45e9-a637-71fe571da1b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'‣ Business Review')]</value>
+      <webElementGuid>ae17b73b-1593-4891-96a9-372a584b7a64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All Apps'])[1]/following::a[1]</value>
+      <webElementGuid>d04d4833-b887-4c4f-b77c-823c715b6f9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='• Business Review Rucika'])[1]/preceding::a[1]</value>
+      <webElementGuid>819e081a-b90f-4b8b-9ec6-610e4e88f066</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='‣ Transaction'])[1]/preceding::a[2]</value>
+      <webElementGuid>7a4c7420-e769-49d3-a22e-f8e520975c6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='‣ Business Review']/parent::*</value>
+      <webElementGuid>0b208186-a38a-4426-96c4-c73ba3666248</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '')])[10]</value>
+      <webElementGuid>bd6b1f70-4387-4004-b362-2d5af8e28e4e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/a</value>
+      <webElementGuid>1300d9e7-65f7-4de7-9b18-a7bec0372db5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = ' ‣ Business Review' or . = ' ‣ Business Review')]</value>
+      <webElementGuid>e596678d-cdaf-40a1-9984-585c63fdd946</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

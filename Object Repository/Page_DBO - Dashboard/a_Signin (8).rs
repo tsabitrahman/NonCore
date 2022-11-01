@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Signin (8)</name>
+   <tag></tag>
+   <elementGuidId>873550d4-3aa2-4b82-893a-712582a23cf5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//a[contains(text(),'Signin')])[5]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>a24c6a24-31be-4ed1-8678-3a4502a6bba3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://app.dbo.id/post/13</value>
+      <webElementGuid>6f1914cb-784c-4a3c-8823-032e712a0806</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary</value>
+      <webElementGuid>a07c7d28-ae67-4620-aa72-56ed927b3df6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Signin</value>
+      <webElementGuid>c293ec26-e29c-4adf-885d-1d51a0ee1da3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;font-sans antialiased&quot;]/div[@class=&quot;min-h-screen bg-gray-100&quot;]/main[1]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-4 py-2&quot;]/div[@class=&quot;card card-body h-100&quot;]/a[@class=&quot;btn btn-primary&quot;]</value>
+      <webElementGuid>071d22a2-2339-4ffb-8a5a-1043a310e3a4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Signin')])[5]</value>
+      <webElementGuid>df0a5ac2-bac9-4954-a7de-0a6407931e22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bypass'])[1]/following::a[1]</value>
+      <webElementGuid>b3062f39-1407-47b3-9b20-1a5bf2957280</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Signin'])[4]/following::a[2]</value>
+      <webElementGuid>40715310-a8a5-4d91-9725-421e8b4b451e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Internal Admin'])[1]/preceding::a[2]</value>
+      <webElementGuid>0a781171-3447-459f-84f3-80c05d42265f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Signin'])[6]/preceding::a[2]</value>
+      <webElementGuid>31d502d3-7a60-46af-9753-3230f8de3f0f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://app.dbo.id/post/13')]</value>
+      <webElementGuid>9235c290-241c-47e6-9bf9-2e990cd4605f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/a</value>
+      <webElementGuid>d4572e7c-d27c-41c7-8184-94791d2edfec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://app.dbo.id/post/13' and (text() = 'Signin' or . = 'Signin')]</value>
+      <webElementGuid>28dd929a-4c6a-4d0f-80c7-6543e53c4f48</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

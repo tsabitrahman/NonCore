@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Penjualan</name>
+   <tag></tag>
+   <elementGuidId>04fea573-1047-45fe-a278-521a534a7eb8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='theme-114']/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#theme-114 > a.list-group-item.list-group-item-action</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>68e7a356-d2fb-48f3-9805-eed328f740c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://report.dbo.id/tableau/17</value>
+      <webElementGuid>3fe5d868-ea83-4ca3-a0e5-e3121bbec423</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>list-group-item list-group-item-action</value>
+      <webElementGuid>195df91a-c26a-4cb5-9476-41b9f1917e88</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> • Penjualan</value>
+      <webElementGuid>968bbb17-a6aa-4d26-b0bb-b940552a8113</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;theme-114&quot;)/a[@class=&quot;list-group-item list-group-item-action&quot;]</value>
+      <webElementGuid>4f00972a-745c-4ffc-b033-8affead1d3dc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='theme-114']/a</value>
+      <webElementGuid>029c586a-72b6-4e44-8d76-a63b1050e8d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'• Penjualan')]</value>
+      <webElementGuid>b98082f4-5d3f-4033-b114-8d7ea364e880</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='‣ Transaction'])[1]/following::a[1]</value>
+      <webElementGuid>f8a138be-9405-4836-a2ce-e74873b31fef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='• LCP Monthly'])[1]/following::a[2]</value>
+      <webElementGuid>8ec459f5-5233-4f83-94b8-87ef38239aff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='• Transaction detail by DBO Apps'])[1]/preceding::a[1]</value>
+      <webElementGuid>1e5ef158-932f-4b06-a929-510a0d814c45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='• Penjualan']/parent::*</value>
+      <webElementGuid>00d639ba-93b7-43e0-a56f-95eda5057e74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://report.dbo.id/tableau/17')]</value>
+      <webElementGuid>8b531cff-fc01-4c82-ad82-72dc4c96e2fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div[2]/a</value>
+      <webElementGuid>9401d5cf-41f6-4065-a1c5-18e8e53065a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://report.dbo.id/tableau/17' and (text() = ' • Penjualan' or . = ' • Penjualan')]</value>
+      <webElementGuid>37245a43-b5aa-47d3-817f-7da7cb327a41</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Logout</name>
+   <tag></tag>
+   <elementGuidId>6b61f9b1-8381-4b93-969a-f470c6400ee5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.dropdown-item</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@onclick=&quot;event.preventDefault(); document.getElementById('logout-form').submit();&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>9c3a2356-e900-4860-8212-f8879be02802</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-item</value>
+      <webElementGuid>89e457bd-be37-431e-9172-edaeabe404b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://report.dbo.id/logout</value>
+      <webElementGuid>e23fe3d3-2c36-4d56-adeb-3c33f1814156</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>event.preventDefault(); document.getElementById('logout-form').submit();</value>
+      <webElementGuid>7e745fd5-6def-4dea-b130-962f7b424121</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                    Logout
+                </value>
+      <webElementGuid>5efa6001-7b8d-44fa-a0bc-03f94f95b840</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;app header-fixed sidebar-fixed aside-menu-fixed sidebar-lg-show&quot;]/header[@class=&quot;app-header navbar&quot;]/ul[@class=&quot;nav navbar-nav ml-auto&quot;]/li[@class=&quot;nav-item d-md-down-none show&quot;]/div[@class=&quot;dropdown-menu dropdown-menu-right show&quot;]/a[@class=&quot;dropdown-item&quot;]</value>
+      <webElementGuid>b8c86359-8e75-4d07-8d1b-2b72d968804e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@onclick=&quot;event.preventDefault(); document.getElementById('logout-form').submit();&quot;]</value>
+      <webElementGuid>caadfa21-fd28-49d6-b518-722874fa9d59</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='|'])[1]/following::a[2]</value>
+      <webElementGuid>8a107163-16d6-4b79-868f-ac674f14b94f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PDF Guideline'])[1]/following::a[2]</value>
+      <webElementGuid>0d126514-bd86-4606-bb4d-165ff70f7a16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Menu'])[1]/preceding::a[1]</value>
+      <webElementGuid>00dc9ae6-f439-4d75-8fd9-957c62f6e14d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BI Reports'])[1]/preceding::a[1]</value>
+      <webElementGuid>a92c7707-83e5-4ceb-a5c9-4523307a7965</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Logout']/parent::*</value>
+      <webElementGuid>a32d5d31-4125-48ef-96db-9c35280fda80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://report.dbo.id/logout')]</value>
+      <webElementGuid>6d9b179a-54a8-4892-87b3-c2c0dde01269</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/a</value>
+      <webElementGuid>667489a4-e7c9-4b83-bfbc-46a223a885b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://report.dbo.id/logout' and (text() = '
+                    Logout
+                ' or . = '
+                    Logout
+                ')]</value>
+      <webElementGuid>f79d5cf8-ac97-45d9-89f5-38c9dfcde09b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

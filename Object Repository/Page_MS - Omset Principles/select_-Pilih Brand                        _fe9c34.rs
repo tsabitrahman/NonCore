@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_-Pilih Brand                        _fe9c34</name>
+   <tag></tag>
+   <elementGuidId>08fa6053-ac25-42e9-9f19-8b24b42950b2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#mybrand</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='mybrand']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>79f38671-48e8-48f3-94a2-7304a25937a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>brand</value>
+      <webElementGuid>5a28d80c-8e58-4035-85c5-70e852072c52</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>mybrand</value>
+      <webElementGuid>464d5fa0-26a8-491b-bca2-52adf29b459e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control form-control-lg</value>
+      <webElementGuid>a9857e43-79bc-4e67-b8c5-6b89056c484f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Mitra Usaha</value>
+      <webElementGuid>0abae85e-c004-4a49-82bc-040173536008</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                                            -Pilih Brand
+                                                                                                                    Rucika
+                                                                                                            </value>
+      <webElementGuid>f1da448b-ab4c-4083-bae0-56c7bda6e7ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mybrand&quot;)</value>
+      <webElementGuid>042e8dde-6f70-4386-bb08-5f68e9e4b261</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='mybrand']</value>
+      <webElementGuid>b9f4f60a-571a-45dc-af1a-29f5e319fa63</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bulan Akhir'])[1]/following::select[1]</value>
+      <webElementGuid>8f99f7d4-03fa-48f1-871a-686b1bec0a88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Submit'])[1]/preceding::select[1]</value>
+      <webElementGuid>412990fc-ff6c-4ca9-a556-d7a8f3fa8e95</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Maaf!, Anda belum memilih Nama Brand!'])[1]/preceding::select[1]</value>
+      <webElementGuid>a46165ba-11c4-461b-b93c-90b71af98200</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>9e33decd-2b50-494a-a6cf-7604f086c7cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'brand' and @id = 'mybrand' and @placeholder = 'Mitra Usaha' and (text() = '
+                                                            -Pilih Brand
+                                                                                                                    Rucika
+                                                                                                            ' or . = '
+                                                            -Pilih Brand
+                                                                                                                    Rucika
+                                                                                                            ')]</value>
+      <webElementGuid>7e31c7f5-5f76-4c2e-b4d1-4c1bfcde841c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

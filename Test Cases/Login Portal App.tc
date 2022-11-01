@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Login ke Portal App</description>
+   <name>Login Portal App</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a991a25b-ccc4-4123-a3b4-714661c22823</testCaseGuid>
+</TestCaseEntity>
